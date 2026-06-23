@@ -1,0 +1,6 @@
+pandas
+openpyxl
+ollama
+chromadb
+sentence-transformers
+streamlit
