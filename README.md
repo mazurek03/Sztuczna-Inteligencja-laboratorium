@@ -25,4 +25,4 @@ Car AI Assistant to prosty system RAG (Retrieval-Augmented Generation) oparty na
    - rekomendacje i pytania opisowe → RAG + model językowy.  
 4. Odpowiedź jest prezentowana w formie konwersacji w aplikacji Streamlit.
 
-![](Sztuczna-Inteligencja-laboratorium/Projekt/car-rag/Projekt_21265/1)
+![](Projekt/car-rag/Projekt_21265/2.png)
