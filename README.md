@@ -18,7 +18,7 @@ Car AI Assistant to prosty system RAG (Retrieval-Augmented Generation) oparty na
 1. Użytkownik wgrywa plik Excel z danymi o samochodach.
 2. Dane są przetwarzane i zapisywane w bazie wektorowej ChromaDB.
 
-![](Projekt_21265/1.png)
+![](Projekt/car-rag/Projekt_21265/1.png)
 
 3. System rozpoznaje typ pytania:  
    - operacje na danych → Pandas (python),
